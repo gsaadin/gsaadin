@@ -5,7 +5,4 @@
 
 
 
-<div align="left">
-  <a href="https://github.com/gsaadin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsaadin&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+[![Pedro Nishida's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-nishida)](https://github.com/anuraghazra/github-readme-stats)
