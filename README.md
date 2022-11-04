@@ -1,4 +1,4 @@
-<h1 align="left">Opa <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou o Saad</h1>
+<h1 align="left"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Opa, sou o Saad</h1>
 
 <h2 align="left">Faço Engenharia da Computação na UFU</h2>
 
@@ -14,7 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesaad&&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Pedro Nishida's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermesaad&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![guilhermesaad's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermesaad&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="left">Eu programo com:</h2>
 
