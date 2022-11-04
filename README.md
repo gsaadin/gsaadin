@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">📚 Estudando: C/C#/Python ; php<br>📬 Contate-me no email: guisaadb3@gmail.com ou guilherme.saad@ufu.br</p>
+<p align="left">📚 Estudando: C/C#/Python <br>📬 Contate-me no email: guisaadb3@gmail.com ou guilherme.saad@ufu.br</p>
 
 ###
 
